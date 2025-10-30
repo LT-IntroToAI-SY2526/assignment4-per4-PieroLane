@@ -39,7 +39,7 @@ class TTTBoard:
         return self.has_won("X") or self.has_won("O") or '*' not in self.board
     
     def clear(self):
-        """Clear the board for a new game"""
+        """reset the board for a new game"""
         self.board = ['*'] * 9
     
 def play_tic_tac_toe() -> None:
