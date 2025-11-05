@@ -22,12 +22,12 @@ Remember: This assignment introduces object-oriented programming concepts that w
 | Criteria | Points Possible | Points Earned | Comments |
 |----------|----------------|---------------|----------|
 | **Programming Implementation** | | | |
-| TTTBoard Class Methods | 4 | | |
-| Test Cases Passing | 3 | | |
+| TTTBoard Class Methods | 4 |4 | |
+| Test Cases Passing | 3 |3 | |
 | **Reflection & Understanding** | | | |
-| Programming Challenge Reflection | 1 | | |
-| Design & Strategy Understanding | 2 | | |
-| **TOTAL** | **10** | | |
+| Programming Challenge Reflection | 1 |1 | Probably a little overkill with going to an API, you could program this now |
+| Design & Strategy Understanding | 2 |2 | |
+| **TOTAL** | **10** |10 | Great work! |
 
 ---
 
